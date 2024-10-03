@@ -1,0 +1,272 @@
+[
+            {
+                "nombreReal": "Bruce Wayne",
+                "nombrePersonaje": "Batman",
+                "biografia": "Bruce Wayne (también llamado Bruno Díaz en Hispanoamérica) es un filántropo, multimillonario y el presidente corporativo de Empresas Wayne.",
+                "resistencia": "85",
+                "fuerzaAtaque": "90",
+                "casaProductora": "DC",
+                "imagen": "https://www.kindpng.com/picc/m/13-137307_batman-comic-png-dc-comics-batman-new-52.png"
+            },
+            {
+                "nombreReal": "Clark Kent",
+                "nombrePersonaje": "Superman",
+                "biografia": "La identidad secreta de Superman es Clark Joseph Kent, reportero del Daily Planet. Aunque su nombre e historia fueron tomados de sus primeros años con sus padres adoptivos de la Tierra, todo sobre Clark fue organizado en beneficio de su identidad alternativa: como reportero del Daily Planet, recibe noticias de última hora ante el público en general.",
+                "resistencia": "100",
+                "fuerzaAtaque": "100",
+                "casaProductora": "DC",
+                "imagen": "https://e.rpp-noticias.io/xlarge/2024/07/11/292329_1610934.webp"
+            },
+            {
+                "nombreReal": "Diana Pince",
+                "nombrePersonaje": "Wonder Woman",
+                "biografia": "La Mujer Maravilla (en inglés: Wonder Woman) es una superheroína ficticia creada por William Moulton Marston y H. G. Peter para la editorial DC Comics. Es una princesa guerrera de las Amazonas, pueblo ficticio basado en el de las amazonas de la mitología griega. ",
+                "resistencia": "90",
+                "fuerzaAtaque": "95",
+                "casaProductora": "DC",
+                "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/05/WonderWoman_curiosidades_header.jpg?tf=1200x900"
+            },
+            {
+                "nombreReal": "Hal Jordan",
+                "nombrePersonaje": "Green Lantern",
+                "biografia": "En 1959 era piloto de pruebas de la empresa aeronáutica Ferris, hasta que recibió el anillo de poder y su batería por parte de un alienígena moribundo llamado Abin Sur.",
+                "resistencia": "85",
+                "fuerzaAtaque": "80",
+                "casaProductora": "DC",
+                "imagen": "https://static.dc.com/dc/files/default_images/Char_Thumb_GreenLantern_20200721_5f173ac65f56f7.70929296.jpg"
+            },
+            {
+                "nombreReal": "Barry Allen",
+                "nombrePersonaje": "Flash",
+                "biografia": "Después de varias apariciones más en Showcase, Barry Allen recibió su propio título, The Flash, cuyo primer número fue el #105 (reanudando donde Flash Comics lo había dejado).",
+                "resistencia": "80",
+                "fuerzaAtaque": "85",
+                "casaProductora": "DC",
+                "imagen": "https://static.dc.com/dc/files/default_images/Char_Profile_Flash_20190116_5c3fcaaa18f0e8.03668117.jpg"
+            },
+            {
+                "nombreReal": "Arthur Curry",
+                "nombrePersonaje": "Aquaman",
+                "biografia": "En Adventure Comics, #260 (mayo de 1959) y en los cómics posteriores de la Edad de Plata, se reveló que Aquaman era Arthur Curry, el hijo de Tom Curry, un farero, y Atlanna, una marginada de la ciudad perdida de Atlantis.",
+                "resistencia": "85",
+                "fuerzaAtaque": "80",
+                "casaProductora": "DC",
+                "imagen": "https://i.blogs.es/12a5f3/aquaman-image2/1366_2000.jpg"
+            },
+            {
+                "nombreReal": "Victor Stone",
+                "nombrePersonaje": "Cyborg ",
+                "biografia": "Cyborg (en español: Cíborg) (conocido como Victor Vic Stone) es un superhéroe ficticio que aparece en los cómics estadounidenses publicados por DC Comics.",
+                "resistencia": "90",
+                "fuerzaAtaque": "85",
+                "casaProductora": "DC",
+                "imagen": "https://s3.amazonaws.com/comicgeeks/characters/avatars/559.jpg"
+            },
+            {
+                "nombreReal": "Oliver Queen",
+                "nombrePersonaje": "Green Arrow",
+                "biografia": "Oliver Queen también conocido por su alter ego Green Arrow, es un personaje de la franquicia de medios Arrowverso de The CW, presentado por primera vez en el episodio piloto de 2012 en la serie de televisión Arrow.",
+                "resistencia": "75",
+                "fuerzaAtaque": "80",
+                "casaProductora": "DC",
+                "imagen": "https://static.dc.com/dc/files/default_images/Char_Profile_GreenArrow_5c4915494b4039.94050514.jpg"
+            },
+            {
+                "nombreReal": "John Constantine",
+                "nombrePersonaje": "Constantine",
+                "biografia": "La trama principal gira en torno a John Constantine (Keanu Reeves), un exorcista que nació con la habilidad de poder ver los ángeles y demonios.",
+                "resistencia": "70",
+                "fuerzaAtaque": "60",
+                "casaProductora": "DC",
+                "imagen": "https://i.blogs.es/c0d493/constantinecityofdemons/450_1000.jpg"
+            },
+            {
+                "nombreReal": "Kara Zor-El",
+                "nombrePersonaje": "Supergirl",
+                "biografia": "Kara Zor-El (Supergirl), también conocida por sus nombres adoptivos de Linda Lee Danvers, Kara Kent, Linda Lang y Kara Danvers, es una superheroína que aparece en los cómics estadounidenses publicados por DC Comics.",
+                "resistencia": "85",
+                "fuerzaAtaque": "90",
+                "casaProductora": "DC",
+                "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20141031140127_1200.jpg"
+            },
+            {
+                "nombreReal": "Selina Kyle",
+                "nombrePersonaje": "Catwoman",
+                "biografia": "Catwoman (generalmente llamada Gatúbela en Español Latino) es un personaje ficticio creado por Bill Finger y Bob Kane que aparece en los cómics estadounidenses publicados por DC Comics, comúnmente en asociación con el superhéroe Batman. ",
+                "resistencia": "70",
+                "fuerzaAtaque": "75",
+                "casaProductora": "DC",
+                "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/12/catwoman-comics-3249794.jpg?tf=1200x1200"
+            },
+            {
+                "nombreReal": "Harleen Quinzel",
+                "nombrePersonaje": "Harley Quinn",
+                "biografia": "Harleen Frances Quinzel, más tarde conocida como Harley Quinn, es un personaje ficticio interpretado por Margot Robbie en el Universo Extendido de DC, basado en el personaje del mismo nombre de DC Comics.",
+                "resistencia": "65",
+                "fuerzaAtaque": "70",
+                "casaProductora": "DC",
+                "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/d1/c2/d1c2fdd452c57dffaf96704c7c087ee3.jpg"
+            },
+            {
+                "nombreReal": "Alexander Joseph",
+                "nombrePersonaje": "Lex Luthor",
+                "biografia": "Alexander Joseph Lex Luthor es un personaje de ficción de DC Comics, un supervillano y el archienemigo de Superman, aunque dado su alto estatus como supervillano, también entra en conflicto con Batman y otros superhéroes del Universo DC.",
+                "resistencia": "60",
+                "fuerzaAtaque": "70",
+                "casaProductora": "DC",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRslq3GnVpjBV7dzE8dwd0mFi5SrgOxl5gsVg&s"
+            },
+            {
+                "nombreReal": "Slade Wilson",
+                "nombrePersonaje": "Deathstroke ",
+                "biografia": "Slade Wilson, más conocido como Deathstroke (en español Golpe Mortal), es un supervillano ficticio que aparece en los cómics de superhéroes estadounidenses publicados por DC Comics.",
+                "resistencia": "85",
+                "fuerzaAtaque": "90",
+                "casaProductora": "DC",
+                "imagen": "https://www.comicverso.com/wp-content/uploads/2023/06/Deathstroke_el_asesino_de_dioses_portada.jpg"
+            },
+            {
+                "nombreReal": "Billy Batson",
+                "nombrePersonaje": "Shazam ",
+                "biografia": "Captain Marvel (traducido al español como Capitán Marvel o Capitán Maravilla), y desde el 2011 llamado Shazam,3​4​5​ es un superhéroe creado en 1939 por el guionista Bill Parker y el dibujante Clarence Charles Beck, originalmente publicado por Fawcett Comics en Whizz Comics 2 (febrero de 1940) y posteriormente, tras la compra de los derechos del personaje en 1972 y hasta la actualidad, por DC Comics.",
+                "resistencia": "DC",
+                "fuerzaAtaque": "90",
+                "casaProductora": "95",
+                "imagen": "https://w7.pngwing.com/pngs/131/430/png-transparent-shazam-thumbnail.png"
+            },
+            {
+                "nombreReal": "Steve Rogers",
+                "nombrePersonaje": "Capitán América",
+                "biografia": "El Capitán América, cuyo nombre real es  Steve Grant Rogers, es un superhéroe ficticio que aparece en los cómics estadounidenses publicados por Marvel Comics.",
+                "resistencia": "85",
+                "fuerzaAtaque": "80",
+                "casaProductora": "Marvel",
+                "imagen": "https://i.pinimg.com/564x/5d/13/58/5d1358223ae9cf7e8f1121cacac3b167.jpg"
+            },
+            {
+                "nombreReal": "Tony Stark",
+                "nombrePersonaje": "Iro Man",
+                "biografia": "Anthony Edward Stark (Manhattan, Nueva York, Estados Unidos, 29 de mayo de 1970 - Nueva York, Estados Unidos, 17 de octubre de 2023), más conocido como Tony Stark, es un personaje interpretado por Robert Downey Jr.",
+                "resistencia": "80",
+                "fuerzaAtaque": "90",
+                "casaProductora": "Marvel",
+                "imagen": "https://assets-prd.ignimgs.com/2022/09/21/collage-maker-20-sep-2022-11-29-pm-1-1663730990588.jpg?crop=16%3A9&width=888"
+            },
+            {
+                "nombreReal": "Peter Parker",
+                "nombrePersonaje": "Spider-Man",
+                "biografia": "Spider-Man, traducido en ocasiones como el Hombre Araña, ​​ es un superhéroe ficticio creado por los estadounidenses Stan Lee y Steve Ditko, ​​ e introducido en el cómic Amazing Fantasy n.° 15, publicado por Marvel Comics en agosto de 1962.​",
+                "resistencia": "75",
+                "fuerzaAtaque": "85",
+                "casaProductora": "Marvel",
+                "imagen": "https://i.pinimg.com/736x/8f/0c/81/8f0c8139d840dc28c0cbf745e4409e17.jpg"
+            },
+            {
+                "nombreReal": "Thor Odinson",
+                "nombrePersonaje": "Thor",
+                "biografia": "Thor Odinson, más conocido como Thor, y a veces por su título como el Dios del Trueno, es un personaje ficticio interpretado por Chris Hemsworth en el Universo Cinematográfico de Marvel (MCU), basada en el personaje de Marvel Comics del mismo nombre y el dios mitológico nórdico del mismo nombre.",
+                "resistencia": "95",
+                "fuerzaAtaque": "95",
+                "casaProductora": "Marvel",
+                "imagen": "https://i.pinimg.com/736x/09/62/a4/0962a412cd5df4bf2e0c9b2852ea948f.jpg"
+            },
+            {
+                "nombreReal": "Bruce Banner",
+                "nombrePersonaje": "Hulk",
+                "biografia": "Bruce Banner (Dayton, Ohio, Estados Unidos, 18 de diciembre de 1969) es un personaje de la franquicia cinematográfica Universo Cinematográfico de Marvel (UCM) interpretado inicialmente por Edward Norton y posteriormente por Mark Ruffalo.",
+                "resistencia": "100",
+                "fuerzaAtaque": "100",
+                "casaProductora": "Marvel",
+                "imagen": "https://cdn.pixabay.com/photo/2023/06/29/02/54/hulk-8095537_1280.png"
+            },
+            {
+                "nombreReal": "Natasha Romanoff",
+                "nombrePersonaje": "Black Widow",
+                "biografia": "En el Universo Cinematográfico de Marvel (UCM), la actriz Scarlett Johansson interpreta a Natasha Romanoff/Black Widow. El personaje apareció por primera vez en Iron Man 2 (2010).",
+                "resistencia": "70",
+                "fuerzaAtaque": "75",
+                "casaProductora": "Marvel",
+                "imagen": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a7d214123165811.60e87c5914db2.png"
+            },
+            {
+                "nombreReal": "Stephen Strange",
+                "nombrePersonaje": "Doctor Strange",
+                "biografia": "Benedict Cumberbatch interpreta al Doctor Stephen Vicent Strange en las películas del UCM: Doctor Strange (2016), Thor: Ragnarok (2017),​ Avengers: Infinity War (2018),​ Avengers: Endgame (2019),​ Spider-Man: No Way Home (2021), y Doctor Strange en el multiverso de la locura (2022).",
+                "resistencia": "85",
+                "fuerzaAtaque": "90",
+                "casaProductora": "Marvel",
+                "imagen": "https://i.pinimg.com/564x/83/1f/01/831f015888b5a0cd588e89b865ed12d0.jpg"
+            },
+            {
+                "nombreReal": "T'Challa",
+                "nombrePersonaje": "Black Panther",
+                "biografia": "La Pantera Negra (T'Challa) (inglés: Black Panther) es un superhéroe de la compañía estadounidense Marvel Comics, creado por Stan Lee y Jack Kirby para el número 52 de The Fantastic Four.",
+                "resistencia": "85",
+                "fuerzaAtaque": "85",
+                "casaProductora": "Marvel",
+                "imagen": "https://ironusa.vtexassets.com/arquivos/ids/192798/090357_0.jpg?v=637909345411270000"
+            },
+            {
+                "nombreReal": "Wanda Maximoff",
+                "nombrePersonaje": "Scarlet Witch",
+                "biografia": "Elizabeth Olsen interpreta a Wanda Maximoff / Bruja Escarlata en medios de acción en vivo ambientados en el Universo cinematográfico de Marvel.",
+                "resistencia": "90",
+                "fuerzaAtaque": "95",
+                "casaProductora": "Marvel",
+                "imagen": "https://i.pinimg.com/736x/10/15/43/1015431dc84eb51d2cf30b43899003c9.jpg"
+            },
+            {
+                "nombreReal": "James Howlett",
+                "nombrePersonaje": "Wolverine",
+                "biografia": "",
+                "resistencia": "90",
+                "fuerzaAtaque": "85",
+                "casaProductora": "Marvel",
+                "imagen": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2024/04/imagen_2024-04-15_144335964.jpg"
+            },
+            {
+                "nombreReal": "Carol Danvers",
+                "nombrePersonaje": "Captain Marvel",
+                "biografia": "Wolverine, cuyo nombre de nacimiento es James Howlett (también conocido como James Logan o simplemente Logan),​ es un superhéroe y antihéroe ficticio que aparece en los cómics publicados por Marvel Comics, principalmente en asociación con los X-Men.",
+                "resistencia": "95",
+                "fuerzaAtaque": "90",
+                "casaProductora": "Marvel",
+                "imagen": "https://static01.nyt.com/images/2019/03/10/arts/10marvel-list1/merlin_151018680_8b11e0d6-d5d0-4dc2-9b72-b5a46205b550-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+            },
+            {
+                "nombreReal": "Clinton Barton",
+                "nombrePersonaje": "Hawkeye",
+                "biografia": "Clinton Barton (Waverly, Iowa, Estados Unidos, 9 de febrero de 1969) es un personaje interpretado por Jeremy Renner en el Universo Cinematográfico de Marvel, basada en el personaje de Marvel Comics del mismo nombre, comúnmente por su alter ego, Hawkeye (Ojo de Halcόn, en español).",
+                "resistencia": "70",
+                "fuerzaAtaque": "75",
+                "casaProductora": "Marvel",
+                "imagen": "https://upload.wikimedia.org/wikipedia/en/9/99/Hawkeye_%28Clinton_Barton%29.png"
+            },
+            {
+                "nombreReal": "Matt Murdock",
+                "nombrePersonaje": "Daredevil",
+                "casaProductora": "Marvel",
+                "biografia": "Abogado ciego de día y vigilante de noche, Daredevil usa sus sentidos aumentados para proteger Hell's Kitchen.",
+                "resistencia": 75,
+                "fuerzaAtaque": 80,
+                "imagen": "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22129841/RCO001_w_1606318733.jpg?quality=90&strip=all&crop=0,22.855271774722,100,65.094957432875"
+            },
+            {
+                "nombreReal": "Eddie Brock",
+                "nombrePersonaje": "Venom",
+                "casaProductora": "Marvel",
+                "biografia": "Con su simbionte alienígena, Eddie Brock se transforma en Venom, una entidad poderosa y caótica.",
+                "resistencia": 85,
+                "fuerzaAtaque": 90,
+                "imagen": "https://lumiere-a.akamaihd.net/v1/images/venom_16de684e.jpeg?region=12,0,1568,882&width=960"
+            },
+            {
+                "nombreReal": "Thanos",
+                "nombrePersonaje": "Thanos",
+                "casaProductora": "Marvel",
+                "biografia": "El titán loco, Thanos busca el poder de las Gemas del Infinito para destruir la mitad del universo.",
+                "resistencia": 100,
+                "fuerzaAtaque": 100,
+                "imagen": "https://www.mundodeportivo.com/alfabeta/hero/2024/09/thanos-ha-sido-derrotado-de-forma-definitiva-en-este-reciente-comic.jpg?width=768&aspect_ratio=16:9&format=nowebp"
+            }
+        ]
