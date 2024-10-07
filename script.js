@@ -1,5 +1,5 @@
 class PrincipalElement extends HTMLElement {
-    constructor(){
+    constructor() {
         super();
         this.innerHTML = `
         <h1>Superhéroes DC y Marvel</h1>
@@ -17,12 +17,17 @@ class PrincipalElement extends HTMLElement {
 
         <!-- Contenedor para la batalla VS -->
         <div id="vsContainer"></div>
-        `
+
+         <dialog id="character-dialog">
+        <button id="close-dialog">Cerrar</button>
+        <div id="dialog-content"></div>
+        </dialog>
+        `;
     }
 }
 customElements.define('principal-element', PrincipalElement);
 
-
+// Evento para eliminar la clase de fondo
 document.querySelectorAll('#buttonsContainer button').forEach(button => {
     button.addEventListener('click', () => {
         document.body.classList.remove('main-background');
@@ -30,6 +35,16 @@ document.querySelectorAll('#buttonsContainer button').forEach(button => {
     });
 });
 
+// Referencias al diálogo y su botón de cierre
+const dialog = document.getElementById('character-dialog');
+const dialogContent = document.getElementById('dialog-content');
+const closeDialogButton = document.getElementById('close-dialog');
+
+closeDialogButton.addEventListener('click', () => {
+    dialog.close();
+});
+
+// Variables globales
 let filteredCharacters = []; // Array para almacenar personajes filtrados
 const charactersPerPage = 4; // Número de personajes a mostrar
 let currentPage = 0; // Página actual
@@ -59,18 +74,31 @@ function displayCharacters() {
     // Obtener los personajes a mostrar para la página actual
     const startIndex = currentPage * charactersPerPage;
     const charactersToDisplay = filteredCharacters.slice(startIndex, startIndex + charactersPerPage);
-    
+
     charactersToDisplay.forEach(character => {
         const card = document.createElement('div');
         card.className = 'character-card';
         card.innerHTML = `
             <img src="${character.imagen}" alt="${character.nombrePersonaje}" width="100">
             <h3>${character.nombrePersonaje}</h3>
-            <p>${character.biografia}</p>
-            <p><strong>Fuerza:</strong> ${character.fuerzaAtaque}</p>
-            <p><strong>Resistencia:</strong> ${character.resistencia}</p>
-            <p><strong>Velocidad:</strong> ${character.velocidad}</p>
+            <p>${character.casaProductora}</p>
         `;
+        
+        // Añadir un evento de clic a la tarjeta para mostrar el diálogo
+        card.addEventListener('click', () => {
+            dialogContent.innerHTML = `
+                <h2>${character.nombrePersonaje}</h2>
+                <img src="${character.imagen}" alt="${character.nombrePersonaje}">
+                <p><strong>Casa Productora:</strong> ${character.casaProductora}</p>
+                <p><strong>Nombre Real:</strong> ${character.nombreReal}</p>
+                <p><strong>Biografía:</strong> ${character.biografia}</p>
+                <p><strong>Resistencia:</strong> ${character.resistencia}</p>
+                <p><strong>Fuerza de Ataque:</strong> ${character.fuerzaAtaque}</p>
+                <p><strong>Velocidad:</strong> ${character.velocidad}</p>
+            `;
+            dialog.showModal();
+        });
+
         container.appendChild(card);
     });
 
