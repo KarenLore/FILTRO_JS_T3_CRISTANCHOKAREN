@@ -50,14 +50,14 @@ header {
 .vs-card img {
     width: 50px;
     height: 50px;
-    border-radius: 50%; /* Esquinas redondeadas para las imágenes */
+    border-radius: 50%; 
 }
 
 #vsContainer h2 {
-    text-align: center; /* Centrar el encabezado */
-    margin: 10px 0; /* Espacio superior e inferior */
-    font-size: 24px; /* Aumentar tamaño de fuente */
-    font-weight: bold; /* Negrita */
+    text-align: center; 
+    margin: 10px 0; 
+    font-size: 24px; 
+    font-weight: bold; 
 }
 
 
@@ -95,7 +95,7 @@ header {
 
 #character-dialog {
     position: fixed;
-    top: 50%;
+    top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: white;
@@ -103,7 +103,7 @@ header {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     max-width: 500px;
-    width: 90%;
+    width: 100%;
     z-index: 1000;
 }
 
@@ -199,7 +199,7 @@ button:hover {
     }
 
     #character-dialog {
-        width: 100%;
+        width: 50%;
     }
 
     #character-dialog img {
@@ -209,6 +209,42 @@ button:hover {
 
     #dialog-content p {
         font-size: 0.70rem;
+    }
+    #vsContainer {
+        gap: 10px; 
+        padding: 20px;
+        margin-top: 5px;
+    }
+
+    .vs-card p, h3{
+        font-size: 15px;
+    }
+    
+    .vs-card {
+        border: 2px solid black; 
+        border-radius: 10px; 
+        padding: 10px; 
+        text-align: center; 
+        background-color: #f8f9fa;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+        transition: transform 0.2s;
+    }
+    
+    .vs-card:hover {
+        transform: scale(1.05);
+    }
+    
+    .vs-card img {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%; 
+    }
+    
+    #vsContainer h2 {
+        text-align: center; 
+        margin: 10px 0; 
+        font-size: 15px; 
+        font-weight: bold; 
     }
 }
 
